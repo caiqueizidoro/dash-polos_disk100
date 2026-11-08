@@ -15,17 +15,7 @@ library(tidyverse)
 library(scales)
 library(tidyr)
 
-# # Carregar módulos
-# source("modules/Psexo.R")
-# source("modules/Pidade.R")
-# source("modules/deficiente.R")
-# source("modules/equipe.R")
-# source("modules/cor_raca.R")
-# source("modules/escolaridade.R")
-# source("modules/grupo_vulneravel.R")
-# source("modules/orientacao_sexual.R")
-# source("modules/relacao_suspeito.R")
-# source("modules/tipo_atendimento.R")
+
 
 # Diagnóstico de carregamento
 modulos <- c(
